@@ -13,7 +13,7 @@ body {
 }
 
 main {
-  background: url(images/mobile.png);
+  background: url(./images/mobile.png);
   width: 375px;
   height: 812px;
   color: var(--gray);
