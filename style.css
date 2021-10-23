@@ -46,10 +46,15 @@ main {
   clip-path: polygon(50% 0, 100% 27%, 100% 70%, 50% 100%, 0 70%, 0 27%);
 }
 
+#userBio,
+#userName {
+  color: var(--gray);
+}
+
 h1 {
   font-size: 1.5rem;
   margin-top: 1.5rem;
-  color: var(--gray);
+  
 }
 a {
   color: var(--gray);
@@ -63,7 +68,7 @@ a {
 
 p {
   margin-top: 2rem;
-  color: var(--gray);
+  
 }
 
 ul {
