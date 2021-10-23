@@ -17,7 +17,7 @@ main {
   width: 100vw;
   min-height: 812px;
   height: 100vh;
-  color: var(--gray);
+  
 }
 
 .container {
@@ -49,6 +49,7 @@ main {
 h1 {
   font-size: 1.5rem;
   margin-top: 1.5rem;
+  color: var(--gray);
 }
 a {
   color: var(--gray);
@@ -59,9 +60,12 @@ a {
   justify-content: center;
   align-items: center;
 }
+
 p {
   margin-top: 2rem;
+  color: var(--gray);
 }
+
 ul {
   margin-top: 4rem;
   list-style: none;
