@@ -41,6 +41,9 @@ main {
   clip-path: polygon(50% 0, 100% 27%, 100% 70%, 50% 100%, 0 70%, 0 27%);
 }
 
+.model {
+  clip-path: polygon(50% 0, 100% 27%, 100% 70%, 50% 100%, 0 70%, 0 27%);
+
 h1 {
   font-size: 1.5rem;
   margin-top: 1.5rem;
