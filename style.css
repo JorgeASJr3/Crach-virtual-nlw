@@ -17,6 +17,7 @@ main {
   width: 100vw;
   min-height: 812px;
   height: 100vh;
+  color: var(--gray);
 }
 
 .container {
